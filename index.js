@@ -1,5 +1,3 @@
-// Arrays to keep track of each task's state
-
 function newTask(title, description) {
   const task = {
     title: title,
